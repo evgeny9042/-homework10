@@ -20,4 +20,4 @@ set(CPACK_PACKAGE_VERSION_PATCH "${PROJECT_VERSION_PATCH}")
 
 set(CPACK_PACKAGE_CONTACT egavrilin90@gmail.com)
 
-include(CPack)
+include(CPack) 
